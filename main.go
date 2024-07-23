@@ -18,5 +18,11 @@ func main() {
 	//for_go()
 	//go_next()
 	//while()
-	ifs()
+	// ifs()
+	//if_short()
+	// loop_funcs(4)
+	//switchs()
+	//check_day()
+	//defer_func()
+	defer_order()
 }
