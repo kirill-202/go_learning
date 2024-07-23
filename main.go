@@ -14,5 +14,9 @@ func main() {
 	//basic_types()
 	//zeros()
 	//type_conversion()
-	constants()
+	//constants()
+	//for_go()
+	//go_next()
+	//while()
+	ifs()
 }
