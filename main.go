@@ -24,5 +24,17 @@ func main() {
 	//switchs()
 	//check_day()
 	//defer_func()
-	defer_order()
+	//defer_order()
+	//pointers()
+	//structs()
+	//struct_fields()
+	//str_literals()
+	//arrays()
+	//slices()
+	//slices_pointers()
+	//slice_literals()
+	//nil_slices()
+	making()
+
+
 }
