@@ -34,7 +34,16 @@ func main() {
 	//slices_pointers()
 	//slice_literals()
 	//nil_slices()
-	making()
+	//making()
+	//tick_tack_toe()
+	//appends()
+	//ranges()
+	//pics()
+	//maps()
+	//mutating_maps()
+	//testing_count()
+	//function_values()
+	fibo()
 
 
 }
