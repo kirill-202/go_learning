@@ -43,7 +43,9 @@ func main() {
 	//mutating_maps()
 	//testing_count()
 	//function_values()
-	fibo()
+	//fibo()
+	//methods()
+	methods_cont()
 
 
 }
