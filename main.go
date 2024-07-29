@@ -45,7 +45,10 @@ func main() {
 	//function_values()
 	//fibo()
 	//methods()
-	methods_cont()
+	//methods_cont()
+	//methods_pointers()
+	//compare_pointers()
+	interfaces_implicit()
 
 
 }
