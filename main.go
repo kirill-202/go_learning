@@ -48,7 +48,10 @@ func main() {
 	//methods_cont()
 	//methods_pointers()
 	//compare_pointers()
-	interfaces_implicit()
+	//interfaces_implicit()
+	//interface_values()
+	//nil_interfaces()
+	type_assert()
 
 
 }
