@@ -51,7 +51,10 @@ func main() {
 	//interfaces_implicit()
 	//interface_values()
 	//nil_interfaces()
-	type_assert()
+	//type_assert()
+	//ex_stringer()
+	errors()
+
 
 
 }
